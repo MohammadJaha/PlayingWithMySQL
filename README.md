@@ -22,14 +22,14 @@ This Program Provide Simple Connection to LocalHost **MySQL DataBase**
 **1. Log In Frame:**
 *       Asking The User to Enter **UserName** And **PassWord**
       
-**1. Admin Frame:**
+**2. Admin Frame:**
 *     •	Shows All the Accountants Information in Table
 *     •	Search for Accountant
 *     •	Add New Accountant
 *     •	Edit an Accountant
 *     •	Delete an Accountant
      
-**1. Accountant Frame:**
+**3. Accountant Frame:**
 *     •	Shows All the Students Information in Table
 *     •	Search for Student
 *     •	Add New Student
